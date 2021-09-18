@@ -6,12 +6,11 @@
 [circleci-url]: https://circleci.com/gh/nestjs/nest
 
   <p align="center">Imersão 4 Full Cycle - Desafio 1 - Criando API REST com Nest.js .</p>
-    <p align="center">
 
-    By: Bruno Kinoshita
+By: Bruno Kinoshita
 
-    Code Snap:
+Code Snap:
 
-    ![Request](codesnap1.png)
-    ![DB Connection](codesnap2.png)
-    ![API]codesnap3.png)
+![Request](codesnap1.png)
+![DB Connection](codesnap2.png)
+![API]codesnap3.png)
