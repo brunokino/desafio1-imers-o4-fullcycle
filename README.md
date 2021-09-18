@@ -9,3 +9,9 @@
     <p align="center">
 
     By: Bruno Kinoshita
+
+    Code Snap:
+
+    !(codesnap1.png)
+    !(codesnap2.png)
+    !(codesnap3.png)
