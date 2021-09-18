@@ -14,3 +14,5 @@ Code Snap:
 ![Request](codesnap1.png)
 ![DB Connection](codesnap2.png)
 ![API](codesnap3.png)
+![Log](codesnap4.png)
+![Log](codesnap5.png)
