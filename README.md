@@ -12,6 +12,6 @@
 
     Code Snap:
 
-    !(codesnap1.png)
-    !(codesnap2.png)
-    !(codesnap3.png)
+    ![Request](codesnap1.png)
+    ![DB Connection](codesnap2.png)
+    ![API]codesnap3.png)
